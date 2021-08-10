@@ -1,0 +1,30 @@
+{
+  "name": "with-styled-components",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "NODE_OPTIONS='--inspect' next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "css-to-style": "^1.4.0",
+    "jotai": "^1.0.0",
+    "lodash": "^4.17.21",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-is": "^17.0.2",
+    "react-rnd": "^10.3.3",
+    "react-use": "^17.2.4",
+    "shortid": "^2.2.16",
+    "styled-components": "^5.2.3",
+    "styled-icons": "^10.35.0",
+    "styled-reset": "^4.3.4",
+    "use-fit-text": "^2.4.0",
+    "use-window-orientation": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  },
+  "license": "MIT"
+}
